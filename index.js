@@ -2,8 +2,6 @@ const express = require('express')
 const mongoose = require('mongoose');
 const Product = require("./models/product.model.js");
 const app = express()
-
-
 app.get('/', (req, res) => {
     res.send('Assalamualaikum! this is my first server, using express js framework :)')
 });
