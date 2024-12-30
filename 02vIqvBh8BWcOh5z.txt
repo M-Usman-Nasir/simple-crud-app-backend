@@ -1,0 +1,6 @@
+02vIqvBh8BWcOh5z
+usmanNasir
+
+current IP address (36.255.44.125)
+
+mongodb+srv://usmanNasir:02vIqvBh8BWcOh5z@cluster1.goexc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
